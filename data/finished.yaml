@@ -54,7 +54,11 @@
   title: Blown to Bits
   finished: False
   rating: TODO
-
+  
+- author: Alison Bechdel
+  title: Fun Home
+  finished: 2017-04-27
+  rating: 4
 - author: Arthur Conan Doyle
   title: A Study in Scarlet
   finished: 2017-01-08
