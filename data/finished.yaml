@@ -54,11 +54,18 @@
   title: Blown to Bits
   finished: False
   rating: TODO
-  
 - author: Alison Bechdel
   title: Fun Home
   finished: 2017-04-27
   rating: 4
+- author: Susan Schaller
+  title: "A Man Without Words"
+  finished: 2017-07-23
+  rating: 4
+- author: Martin Ford
+  title: "Rise of the Robots: Technology and the Threat of a Jobless Future"
+  finished: 2017-06-20
+  rating: 3
 - author: Arthur Conan Doyle
   title: A Study in Scarlet
   finished: 2017-01-08
@@ -67,8 +74,9 @@
     - "From Barnes & Noble's The Complete Sherlock Holmes"
   quotes:
     - page: "15"
-      content: '"No data yet," he answered. "It is a capital mistake
-        to theorize before you have all the evidence. It biases the judgment."'
+      content: | 
+        "No data yet," he answered. "It is a capital mistake
+        to theorize before you have all the evidence. It biases the judgment."
     - page: "23"
       content: The sight of a friendly face in the great wilderness
         of London is a pleasant thing indeed to a lonely man.
