@@ -54,10 +54,57 @@
   title: Blown to Bits
   finished: False
   rating: TODO
-- author: Alison Bechdel
-  title: Fun Home
-  finished: 2017-04-27
+- author: David MacKay
+  title: "Sustainable Energy: Without the Hot Air"
+  finished: False
+  rating: TODO
+- author: Oliver Sacks
+  title: Seeing Voices
+  finished: 2017-08-13
   rating: 4
+  quotes:
+    - page: xi
+      content: |
+        It is all too easy to take language, one's own language,
+        for granted -- one may need to encounter another language, or rather
+        another mode of language, in order to be astonished,
+        to be pushed into wonder, again
+    - page: 8
+      content: |
+        And to be defective in language, for a human being, is one
+        of the most desperate of calamities, for it is only through
+        language that we enter fully into our human estate and
+        culture, communicate freely with our fellows, acquire and
+        share information.
+    - page: 115
+      content: |
+        'The aspects of things that are most important to us are
+        hidden because of their simplicity and familiarity,'
+        Wittgenstin says
+    - page: 147
+      content: |
+        Penrose, who is himself a geometer, conclused that
+        words are almost useless for mathematical thinking,
+        even though they might be well suited for other sorts
+        of thinking.
+        No doubt a chess player, or a computer programmer,
+        or a musian, or an actor, or a visual artist would
+        come to somewhat similar conclusions.
+        It is clear that language, as narrowly conceived, is
+        not the only vehicle or tool for thought.
+- author: Thomas Mann
+  title: Death in Venice
+  finished: 2017-08-07
+  rating: 3
+  quotes:
+    - page: 3
+      content: |
+        [...] he was most surprisingly conscious of an odd expansion within
+        himself, a king of roving unrest, a youthfully ardent desire for faraway
+        places, a feeling so intense, so new or at least unaccustomed and
+        forgotten for so long, that he stopped short as if rooted to the spot,
+        his hands clasped behind him and his eyes fixed on the ground, in order
+        to examine the nature and purpose of this sensation
 - author: Susan Schaller
   title: "A Man Without Words"
   finished: 2017-07-23
@@ -66,6 +113,10 @@
   title: "Rise of the Robots: Technology and the Threat of a Jobless Future"
   finished: 2017-06-20
   rating: 3
+- author: Alison Bechdel
+  title: Fun Home
+  finished: 2017-04-27
+  rating: 4
 - author: Arthur Conan Doyle
   title: A Study in Scarlet
   finished: 2017-01-08
